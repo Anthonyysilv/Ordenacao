@@ -1,0 +1,17 @@
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\bin\Debug\net6.0-windows\AplicaçãodeOrdenação.exe
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\bin\Debug\net6.0-windows\AplicaçãodeOrdenação.deps.json
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\bin\Debug\net6.0-windows\AplicaçãodeOrdenação.runtimeconfig.json
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\bin\Debug\net6.0-windows\AplicaçãodeOrdenação.dll
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\bin\Debug\net6.0-windows\AplicaçãodeOrdenação.pdb
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.Form1.resources
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.AssemblyInfo.cs
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.dll
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\refint\AplicaçãodeOrdenação.dll
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.pdb
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\AplicaçãodeOrdenação.genruntimeconfig.cache
+C:\Users\aluno\Downloads\Aplicação de Ordenação\AplicaçãodeOrdenação\AplicaçãodeOrdenação\obj\Debug\net6.0-windows\ref\AplicaçãodeOrdenação.dll
